@@ -1,0 +1,13 @@
+Date@Home@Away@Score@Prob. Home Win@Prob. Draw@Prob. Away Win@Prob. Both Score
+2015-08-07@Brighton@Nott'm Forest@2 - 1@0.48@0.16@0.36@0.55
+2015-08-08@Birmingham@Reading@2 - 1@0.57@0.16@0.27@0.64
+2015-08-08@Blackburn@Wolves@1 - 1@0.43@0.3@0.27@0.57
+2015-08-08@Bolton@Derby@1 - 2@0.23@0.3@0.48@0.59
+2015-08-08@Brentford@Ipswich@2 - 1@0.64@0.14@0.23@0.52
+2015-08-08@Cardiff@Fulham@2 - 1@0.61@0.09@0.3@0.66
+2015-08-08@Charlton@QPR@1 - 1@0.41@0.32@0.27@0.41
+2015-08-08@Hull@Huddersfield@NA - NA@NA@NA@NA@NA
+2015-08-08@Leeds@Burnley@0 - 1@0.14@0.32@0.55@0.41
+2015-08-08@Rotherham@Milton Keynes Dons@NA - NA@NA@NA@NA@NA
+2015-08-08@Sheffield Weds@Bristol City@NA - NA@NA@NA@NA@NA
+2015-08-09@Preston@Middlesbrough@NA - NA@NA@NA@NA@NA

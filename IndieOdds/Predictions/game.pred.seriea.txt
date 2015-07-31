@@ -1,0 +1,11 @@
+Date@Home@Away@Score@Pr(Home)@Pr(Draw)@Pr(Away)@Pr(Both Score)
+2015-08-22@Lazio@Bologna@2 - 0@0.68@0.3@0.02@0.43
+2015-08-22@Verona@Roma@1 - 1@0.3@0.27@0.43@0.39
+2015-08-23@Empoli@Chievo@1 - 0@0.55@0.25@0.2@0.32
+2015-08-23@Fiorentina@Milan@2 - 1@0.7@0.16@0.14@0.64
+2015-08-23@Frosinone@Torino@NA - NA@NA@NA@NA@NA
+2015-08-23@Inter@Atalanta@1 - 1@0.61@0.27@0.11@0.41
+2015-08-23@Juventus@Udinese@2 - 0@0.93@0.07@0@0.3
+2015-08-23@Palermo@Genoa@1 - 1@0.5@0.3@0.2@0.45
+2015-08-23@Sassuolo@Napoli@1 - 2@0.2@0.25@0.55@0.55
+2015-08-24@Sampdoria@Carpi@NA - NA@NA@NA@NA@NA

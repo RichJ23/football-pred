@@ -1,0 +1,30 @@
+Chesterfield@1 - Chesterfield@@V@Barnsley@2 - Barnsley@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Chesterfield@0.64@0.45@0.44@0.44
+11@5@1@@7@3@0@@Draw@0.2@0.3@0.3@0.29
+SugBet@@@@@@@@Barnsley@0.16@0.3@0.35@0.32
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Crewe@1 - Crewe Alex@@V@Port Vale@2 - Port Vale@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Crewe@0.36@0.43@0.44@0.42
+8.5@4@1@@10@5@1@@Draw@0.2@0.31@0.3@0.29
+SugBet@@@@@@@@Port Vale@0.43@0.32@0.35@0.36
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Gillingham@1 - Gillingham@@V@Sheffield United@2 - Sheffield Ut.@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Gillingham@0.27@0.3@0.31@0.32
+7@4@1@@11@4@1@@Draw@0.25@0.3@0.3@0.29
+SugBet@@@@@@@@Sheffield United@0.48@0.45@0.48@0.44
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Rochdale@1 - Rochdale@@V@Peterboro@2 - Peterbouroug.@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Rochdale@0.45@0.37@0.4@0.38
+10@4@1@@9@4@1@@Draw@0.23@0.31@0.31@0.29
+SugBet@@@@@@@@Peterboro@0.32@0.38@0.38@0.38
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Swindon@1 - Swindon@@V@Bradford@2 - Bradford@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Swindon@0.48@0.43@0.47@0.44
+14@5@1@@9@2.5@1@@Draw@0.27@0.3@0.3@0.29
+SugBet@@@@@@@@Bradford@0.25@0.32@0.32@0.32
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Walsall@1 - Walsall@@V@Oldham@2 - Oldham@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Walsall@0.52@0.45@0.45@0.44
+10.5@3@1@@8@3@1@@Draw@0.23@0.29@0.32@0.3
+SugBet@@@@@@@@Oldham@0.25@0.31@0.31@0.31
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA

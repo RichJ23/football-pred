@@ -1,0 +1,771 @@
+q()
+pnorm(0.8)
+dnorm(0.8)
+dnorm(0.95)
+pnorm(0.95)
+qnorm(0.95)
+qnorm(0.8)
+qnorm(0.2)
+p1<-0.95
+d <- 0.04
+qnorm(0.8) p1*(1-p1)
+qnorm(0.8) *p1*(1-p1)
+qnorm(0.8)*p1*(1-p1)
+qnorm(0.8)*sqrt(p1*(1-p1))
+qnorm(0.95)*(sqrt((p1-d)*(1-p1+d)))
+( qnorm(0.8)*sqrt(p1*(1-p1)) +
+qnorm(0.95)*(sqrt((p1-d)*(1-p1+d))) ) /
+d^2
+p1<-0.95#
+d <- 0.05#
+#
+( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.95)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2
+434/408
+qnorm(0.952)*(sqrt((p1-d)*(1-p1+d))) ) /
+( qnorm(0.8)*sqrt(p1*(1-p1)) +
+qnorm(0.952)*(sqrt((p1-d)*(1-p1+d))) ) /
+d^2
+p1 <- 0.95#
+d <- 0.04#
+#
+( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.952)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2
+434/0.9
+482*0.9
+p1 <- 0.95#
+d <- 0.04#
+#
+( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.952)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2
+p1 <- 0.95#
+d <- 0.04#
+#
+( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.95)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2
+p1 <- 0.95#
+d <- 0.03#
+#
+( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.95)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2
+p1 <- 0.95#
+d <- 0.035#
+#
+( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.95)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2
+p1 <- 0.95#
+d <- 0.039#
+#
+( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.95)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2
+ss <- ( qnorm(0.8)*sqrt(p1*(1-p1)) +
+0.9*0.95
+ss <- ( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.95)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2#
+0.9*0.95
+ss/( 0.9*0.95 )
+ls()
+rec
+rec.forcast
+rec.forcast(N.site,rpm,open.rate,Max.Time)
+N.site <- 10#
+rpm <- 5#
+open.rate <- 1#
+Max.Time <- 24#
+#
+rec.forcast(N.site,rpm,open.rate,Max.Time)
+N.site <- 10#
+rpm <- 5#
+open.rate <- 0.5#
+Max.Time <- 24#
+#
+rec.forcast(N.site,rpm,open.rate,Max.Time)
+N.site <- 10#
+rpm <- 4#
+open.rate <- 0.5#
+Max.Time <- 24#
+#
+rec.forcast(N.site,rpm,open.rate,Max.Time)
+p1 <- 0.95#
+d <- 0.039#
+#
+ss <- ( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.95)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2#
+#
+ss/( 0.9*0.95 )
+p1 <- 0.95#
+d <- 0.039#
+#
+ss <- ( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.975)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2#
+#
+ss/( 0.9*0.95 )
+585*2
+ss
+ss <- ( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.95)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2#
+ss
+qnorm(0.975)*(sqrt((p1-d)*(1-p1+d))) ) /
+ss <- ( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.975)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2#
+ss
+ss/( 0.9*0.95 )
+N.site <- 10#
+rpm <- 4#
+open.rate <- 0.5#
+Max.Time <- 48#
+#
+rec.forcast(N.site,rpm,open.rate,Max.Time)
+qnorm(0.9833)*(sqrt((p1-d)*(1-p1+d))) ) /
+p1 <- 0.95#
+d <- 0.039#
+#
+ss <- ( qnorm(0.8)*sqrt(p1*(1-p1)) +#
+qnorm(0.9833)*(sqrt((p1-d)*(1-p1+d))) ) /#
+d^2#
+ss#
+ss/( 0.9*0.95 )
+171 - 27
+q()
+### Source Code for obtaining data, running function and saving results#
+#
+### Author - Richard Jackson#
+### League - Championship#
+#
+## Loading functions#
+source("/Users/RichJ23/Dropbox/Football/Version2/R files/Football.Function.R")#
+source("/Users/RichJ23/Dropbox/Football/Version3/R files/FootFunc.R")#
+load("/Users/RichJ23/Dropbox/Football/Version3/R files/TEAM.ID.R")#
+#
+library(parallel)#
+library(boot)#
+library(XML)#
+library(gdata)#
+###################
+###### DATA #######
+###################
+#
+## Getting data#
+data.1314<-read.csv("http://football-data.co.uk/mmz4281/1314/E1.csv")#
+data.1415 <- read.csv("http://football-data.co.uk/mmz4281/1415/E1.csv")#
+#
+### Selecting Data#
+var<-c("Div","Date","HomeTeam","AwayTeam","FTHG","FTAG","FTR","HTHG","HTAG","HTR","HS","AS","HST","AST") #
+data.1314<-data.1314[,which(names(data.1314)%in%var)]#
+data.1415<-data.1415[,which(names(data.1415)%in%var)]#
+#
+old.dat <- rbind(data.1314, data.1415)#
+old.dat$Date <- as.Date(as.character(old.dat$Date),"%d/%m/%y")#
+Today <- as.Date(substr(Sys.time(),1,10))#
+old.dat <- old.dat[which(old.dat$Date<Today),]#
+old.dat <- TEAM.NUM(old.dat,TEAM.ID)#
+#
+### getting fixtures#
+url <-  "http://www.bbc.co.uk/sport/football/championship/fixtures"#
+gms <- getGamesBBC(url) #
+#
+### Adding Team info onto data#
+gms <- ADJ.TEAM(gms,TEAM.ID)#
+gms <- TEAM.NUM(gms,TEAM.ID)#
+###################
+### Running Model#
+#
+### setting up parameters matrix#
+n.team<-nrow(TEAM.ID)#
+parm<-as.data.frame(t(matrix(c(1.690144227, 0.897535364, -0.515633140, -0.749958972,  0.752312742, 0.383500052, 0.239465293, -0.632919268, 0.156876818, -0.013475336, -0.065477412, -0.020615962, -0.004266725, 0.351542968, 0.377991555),15,n.team)))#
+#
+names(parm)<-c("Att_S","Att_ST","Att","Def_S","Def_ST","Def","Home_S","Home_ST","Home","HS_ST","AS_ST","HST_G","AST_G","HS.tau","AS.tau")#
+#
+### Setting variance of target distributions#
+tau <- c(0.07427624, 0.18357262, 0.30287027, 0.05411578, 0.15798060, 0.22138211, 0.09093133, 0.20797624, 0.36494833, 0.13497808, 0.15763613,0.03,0.03,0.03,0.03)
+urlOdd <- "http://www.oddschecker.com/football/english/championship"
+Odd.info <- getOddsOC(urlOdd)
+urlOdd <- "http://www.oddschecker.com/football/english/premier-league"
+Odd.info <- getOddsOC(urlOdd)
+getOddsOC
+?readHTMLTables
+?readHTMLTable
+url <-  "http://www.bbc.co.uk/sport/football/premier-league/fixtures"
+gms <- getGamesBBC(url)
+tables <- readHTMLTable(urlOdd)
+urlOdd <- "http://www.oddschecker.com/football/english/premier-league"
+tables <- readHTMLTable(urlOdd)
+q()
+### Author - Richard Jackson#
+### League - Premiership#
+#
+## Loading functions#
+source("/Users/RichJ23/Dropbox/Football/Version2/R files/Football.Function.R")#
+source("/Users/RichJ23/Dropbox/Football/Version3/R files/FootFunc.R")#
+load("/Users/RichJ23/Dropbox/Football/Version3/R files/TEAM.ID.R")#
+#
+library(parallel)#
+library(boot)#
+library(XML)#
+library(gdata)#
+###################
+###### DATA #######
+###################
+#
+## Getting data#
+prem.1314<-read.csv("http://football-data.co.uk/mmz4281/1314/E0.csv")#
+prem.1415 <- read.csv("http://football-data.co.uk/mmz4281/1415/E0.csv")#
+#
+### Selecting Data#
+var<-c("Div","Date","HomeTeam","AwayTeam","FTHG","FTAG","FTR","HTHG","HTAG","HTR","HS","AS","HST","AST") #
+prem.1314<-prem.1314[,which(names(prem.1314)%in%var)]#
+prem.1415<-prem.1415[,which(names(prem.1415)%in%var)]#
+#
+old.dat <- rbind(prem.1314,prem.1415)#
+old.dat$Date <- as.Date(as.character(old.dat$Date),"%d/%m/%y")#
+Today <- as.Date(substr(Sys.time(),1,10))#
+old.dat <- old.dat[which(old.dat$Date<Today),]#
+old.dat <- TEAM.NUM(old.dat,TEAM.ID)#
+#
+### getting fixtures#
+url <-  "http://www.bbc.co.uk/sport/football/premier-league/fixtures"#
+gms <- getGamesBBC(url) #
+urlOdd <- "http://www.oddschecker.com/football/english/premier-league"#
+tables <- readHTMLTable(urlOdd)
+urlOdd <- "http://www.oddschecker.com/football/english/premier-league"
+Odd.info <- getOddsOC(urlOdd)
+### Author - Richard Jackson#
+### League - Premiership#
+#
+## Loading functions#
+source("/Users/RichJ23/Dropbox/Football/Version2/R files/Football.Function.R")#
+source("/Users/RichJ23/Dropbox/Football/Version3/R files/FootFunc.R")#
+load("/Users/RichJ23/Dropbox/Football/Version3/R files/TEAM.ID.R")#
+#
+library(parallel)#
+library(boot)#
+library(XML)#
+library(gdata)
+###################
+###### DATA #######
+###################
+#
+## Getting data#
+prem.1314<-read.csv("http://football-data.co.uk/mmz4281/1314/E0.csv")#
+prem.1415 <- read.csv("http://football-data.co.uk/mmz4281/1415/E0.csv")#
+#
+### Selecting Data#
+var<-c("Div","Date","HomeTeam","AwayTeam","FTHG","FTAG","FTR","HTHG","HTAG","HTR","HS","AS","HST","AST") #
+prem.1314<-prem.1314[,which(names(prem.1314)%in%var)]#
+prem.1415<-prem.1415[,which(names(prem.1415)%in%var)]#
+#
+old.dat <- rbind(prem.1314,prem.1415)#
+old.dat$Date <- as.Date(as.character(old.dat$Date),"%d/%m/%y")#
+Today <- as.Date(substr(Sys.time(),1,10))#
+old.dat <- old.dat[which(old.dat$Date<Today),]#
+old.dat <- TEAM.NUM(old.dat,TEAM.ID)#
+#
+### getting fixtures#
+url <-  "http://www.bbc.co.uk/sport/football/premier-league/fixtures"#
+gms <- getGamesBBC(url)
+urlOdd <- "http://www.oddschecker.com/football/english/premier-league/man-utd-v-tottenham/winner"
+Odd.info <- getOddsOC(urlOdd)
+urlOdd <- "http://www.oddschecker.com/football/english/premier-league"
+Odd.info <- getOddsOC(urlOdd)
+q()
+### Author - Richard Jackson#
+### League - Premiership#
+#
+## Loading functions#
+source("/Users/RichJ23/Dropbox/Football/Version2/R files/Football.Function.R")#
+source("/Users/RichJ23/Dropbox/Football/Version3/R files/FootFunc.R")#
+load("/Users/RichJ23/Dropbox/Football/Version3/R files/TEAM.ID.R")#
+#
+library(parallel)#
+library(boot)#
+library(XML)#
+library(gdata)#
+###################
+###### DATA #######
+###################
+#
+## Getting data#
+prem.1314<-read.csv("http://football-data.co.uk/mmz4281/1314/E0.csv")#
+prem.1415 <- read.csv("http://football-data.co.uk/mmz4281/1415/E0.csv")#
+#
+### Selecting Data#
+var<-c("Div","Date","HomeTeam","AwayTeam","FTHG","FTAG","FTR","HTHG","HTAG","HTR","HS","AS","HST","AST") #
+prem.1314<-prem.1314[,which(names(prem.1314)%in%var)]#
+prem.1415<-prem.1415[,which(names(prem.1415)%in%var)]#
+#
+old.dat <- rbind(prem.1314,prem.1415)#
+old.dat$Date <- as.Date(as.character(old.dat$Date),"%d/%m/%y")#
+Today <- as.Date(substr(Sys.time(),1,10))#
+old.dat <- old.dat[which(old.dat$Date<Today),]#
+old.dat <- TEAM.NUM(old.dat,TEAM.ID)
+urlOdd <- "http://www.oddschecker.com/football/english/premier-league"
+Odd.info <- getOddsOC(urlOdd)
+url <-  "http://www.bbc.co.uk/sport/football/premier-league/fixtures"#
+#
+webpage<-  getURL(url,encoding="UTF-8")#
+PARSED <- htmlParse(webpage)
+??GETurl
+??getURL
+?getURL
+library(RCurl)
+webpage<-  getURL(url,encoding="UTF-8")
+PARSED <- htmlParse(webpage)
+library(XML)
+PARSED <- htmlParse(webpage)
+PARSED
+### Author - Richard Jackson#
+### League - Premiership#
+#
+## Loading functions#
+source("/Users/RichJ23/Dropbox/Football/Version2/R files/Football.Function.R")#
+source("/Users/RichJ23/Dropbox/Football/Version3/R files/FootFunc.R")#
+load("/Users/RichJ23/Dropbox/Football/Version3/R files/TEAM.ID.R")#
+#
+library(parallel)#
+library(boot)#
+library(XML)#
+library(gdata)#
+###################
+###### DATA #######
+###################
+#
+## Getting data#
+prem.1314<-read.csv("http://football-data.co.uk/mmz4281/1314/E0.csv")#
+prem.1415 <- read.csv("http://football-data.co.uk/mmz4281/1415/E0.csv")#
+#
+### Selecting Data#
+var<-c("Div","Date","HomeTeam","AwayTeam","FTHG","FTAG","FTR","HTHG","HTAG","HTR","HS","AS","HST","AST") #
+prem.1314<-prem.1314[,which(names(prem.1314)%in%var)]#
+prem.1415<-prem.1415[,which(names(prem.1415)%in%var)]#
+#
+old.dat <- rbind(prem.1314,prem.1415)#
+old.dat$Date <- as.Date(as.character(old.dat$Date),"%d/%m/%y")#
+Today <- as.Date(substr(Sys.time(),1,10))#
+old.dat <- old.dat[which(old.dat$Date<Today),]#
+old.dat <- TEAM.NUM(old.dat,TEAM.ID)#
+#
+### getting fixtures#
+url <-  "http://www.bbc.co.uk/sport/football/premier-league/fixtures"#
+gms <- getGamesBBC(url)
+urlOdd <- "http://www.oddschecker.com/football/english/premier-league"
+Odd.info <- getOddsOC(urlOdd)
+getOddsOC
+tables <- readHTMLTable(http://www.checkyourodds.co.uk/football/events/Sky-Bet-Championship-Betting.php)
+tables <- readHTMLTable("http://www.checkyourodds.co.uk/football/events/Sky-Bet-Championship-Betting.php")
+tables
+tables <- readHTMLTable("http://www.checkyourodds.co.uk/football/events/Charlton-v-QPR-Odds.php")
+table
+tables
+tables <- readHTMLTable("http://www.odds1x2.com/Football/English-League-Two.aspx")
+tables
+names(tables)
+tables[[1]]
+tables[[2]]
+tables[2]
+tables[1]
+tables[[3]]
+tables[[4]]
+tables[34]]
+tables[[3]]
+tab <- tables[[3]]
+tab[,-which(is.na(tab[,,4]))]
+ncol(tab)
+which(is.na(tab[,6]))
+tab[-which(is.na(tab[,6])),]
+q()
+urlOdd <- "http://www.odds1x2.com/Football/English-League-Two.aspx"
+tables <- readHTMLTable(urlOdd)
+tables <- tables[[3]]
+tables <- tables[-which(is.na(tables[,6])),]
+## Getting data#
+prem.1314<-read.csv("http://football-data.co.uk/mmz4281/1314/E0.csv")#
+prem.1415 <- read.csv("http://football-data.co.uk/mmz4281/1415/E0.csv")#
+#
+### Selecting Data#
+var<-c("Div","Date","HomeTeam","AwayTeam","FTHG","FTAG","FTR","HTHG","HTAG","HTR","HS","AS","HST","AST") #
+prem.1314<-prem.1314[,which(names(prem.1314)%in%var)]#
+prem.1415<-prem.1415[,which(names(prem.1415)%in%var)]#
+#
+old.dat <- rbind(prem.1314,prem.1415)#
+old.dat$Date <- as.Date(as.character(old.dat$Date),"%d/%m/%y")#
+Today <- as.Date(substr(Sys.time(),1,10))#
+old.dat <- old.dat[which(old.dat$Date<Today),]#
+old.dat <- TEAM.NUM(old.dat,TEAM.ID)#
+#
+### getting fixtures#
+url <-  "http://www.bbc.co.uk/sport/football/premier-league/fixtures"#
+gms <- getGamesBBC(url) #
+### Adding Team info onto data#
+gms <- ADJ.TEAM(gms,TEAM.ID)#
+gms <- TEAM.NUM(gms,TEAM.ID)#
+###################
+### Running Model#
+#
+### setting up parameters matrix#
+n.team<-nrow(TEAM.ID)#
+parm<-as.data.frame(t(matrix(c(1.690144227, 0.897535364, -0.515633140, -0.749958972,  0.752312742, 0.383500052, 0.239465293, -0.632919268, 0.156876818, -0.013475336, -0.065477412, -0.020615962, -0.004266725, 0.351542968, 0.377991555),15,n.team)))#
+#
+names(parm)<-c("Att_S","Att_ST","Att","Def_S","Def_ST","Def","Home_S","Home_ST","Home","HS_ST","AS_ST","HST_G","AST_G","HS.tau","AS.tau")#
+#
+### Setting variance of target distributions#
+tau <- c(0.07427624, 0.18357262, 0.30287027, 0.05411578, 0.15798060, 0.22138211, 0.09093133, 0.20797624, 0.36494833, 0.13497808, 0.15763613,0.03,0.03,0.03,0.03)#
+game.pred <- WeekOddsRun(old.dat,gms,TEAM.ID,tau,parm,200,base.tm=2)
+### Author - Richard Jackson#
+### League - Premiership#
+#
+## Loading functions#
+source("/Users/RichJ23/Dropbox/Football/Version2/R files/Football.Function.R")#
+source("/Users/RichJ23/Dropbox/Football/Version3/R files/FootFunc.R")#
+load("/Users/RichJ23/Dropbox/Football/Version3/R files/TEAM.ID.R")#
+#
+library(parallel)#
+library(boot)#
+library(XML)#
+library(gdata)#
+###################
+###### DATA #######
+###################
+#
+## Getting data#
+prem.1314<-read.csv("http://football-data.co.uk/mmz4281/1314/E0.csv")#
+prem.1415 <- read.csv("http://football-data.co.uk/mmz4281/1415/E0.csv")#
+#
+### Selecting Data#
+var<-c("Div","Date","HomeTeam","AwayTeam","FTHG","FTAG","FTR","HTHG","HTAG","HTR","HS","AS","HST","AST") #
+prem.1314<-prem.1314[,which(names(prem.1314)%in%var)]#
+prem.1415<-prem.1415[,which(names(prem.1415)%in%var)]#
+#
+old.dat <- rbind(prem.1314,prem.1415)#
+old.dat$Date <- as.Date(as.character(old.dat$Date),"%d/%m/%y")#
+Today <- as.Date(substr(Sys.time(),1,10))#
+old.dat <- old.dat[which(old.dat$Date<Today),]#
+old.dat <- TEAM.NUM(old.dat,TEAM.ID)#
+#
+### getting fixtures#
+url <-  "http://www.bbc.co.uk/sport/football/premier-league/fixtures"#
+gms <- getGamesBBC(url) #
+### Adding Team info onto data#
+gms <- ADJ.TEAM(gms,TEAM.ID)#
+gms <- TEAM.NUM(gms,TEAM.ID)#
+###################
+### Running Model#
+#
+### setting up parameters matrix#
+n.team<-nrow(TEAM.ID)#
+parm<-as.data.frame(t(matrix(c(1.690144227, 0.897535364, -0.515633140, -0.749958972,  0.752312742, 0.383500052, 0.239465293, -0.632919268, 0.156876818, -0.013475336, -0.065477412, -0.020615962, -0.004266725, 0.351542968, 0.377991555),15,n.team)))#
+#
+names(parm)<-c("Att_S","Att_ST","Att","Def_S","Def_ST","Def","Home_S","Home_ST","Home","HS_ST","AS_ST","HST_G","AST_G","HS.tau","AS.tau")#
+#
+### Setting variance of target distributions#
+tau <- c(0.07427624, 0.18357262, 0.30287027, 0.05411578, 0.15798060, 0.22138211, 0.09093133, 0.20797624, 0.36494833, 0.13497808, 0.15763613,0.03,0.03,0.03,0.03)#
+game.pred <- WeekOddsRun(old.dat,gms,TEAM.ID,tau,parm,200,base.tm=2)
+## Loading functions#
+source("/Users/RichJ23/Dropbox/Football/Version2/R files/Football.Function.R")#
+source("/Users/RichJ23/Dropbox/Football/Version3/R files/FootFunc.R")#
+load("/Users/RichJ23/Dropbox/Football/Version3/R files/TEAM.ID.R")#
+#
+library(parallel)#
+library(boot)#
+library(XML)#
+library(gdata)#
+###################
+###### DATA #######
+###################
+#
+## Getting data#
+prem.1314<-read.csv("http://football-data.co.uk/mmz4281/1314/E0.csv")#
+prem.1415 <- read.csv("http://football-data.co.uk/mmz4281/1415/E0.csv")#
+#
+### Selecting Data#
+var<-c("Div","Date","HomeTeam","AwayTeam","FTHG","FTAG","FTR","HTHG","HTAG","HTR","HS","AS","HST","AST") #
+prem.1314<-prem.1314[,which(names(prem.1314)%in%var)]#
+prem.1415<-prem.1415[,which(names(prem.1415)%in%var)]#
+#
+old.dat <- rbind(prem.1314,prem.1415)#
+old.dat$Date <- as.Date(as.character(old.dat$Date),"%d/%m/%y")#
+Today <- as.Date(substr(Sys.time(),1,10))#
+old.dat <- old.dat[which(old.dat$Date<Today),]#
+old.dat <- TEAM.NUM(old.dat,TEAM.ID)#
+#
+### getting fixtures#
+url <-  "http://www.bbc.co.uk/sport/football/premier-league/fixtures"#
+gms <- getGamesBBC(url)
+gms
+readHTMLTable(url)
+game.pred
+readHTMLTable(url)
+urlOdd <- "http://www.oddschecker.com/football/english/premier-league"
+Odd.info <- getOddsOC(urlOdd)
+urlOdd <- "http://www.odds1x2.com/Football/England-Premier-League.aspx"
+tables <- readHTMLTable(urlOdd)#
+tables <- tables[[3]]
+tables
+tables <- readHTMLTable(urlOdd)
+tables[[1]]
+tables[[2]]
+tables[[3]]
+tables <- tables[[3]]
+dim(tables)
+tables <- tables[-which(is.na(tables[,6])),]
+tables
+gms
+gms <- tables[,2]
+gms
+gms <- tolower(tables[,2])
+gms
+replace(gms,"","-")
+?replace
+strsplit(gms,sep=" ")
+strsplit(gms,split=" ")
+paste(strsplit(gms,split=" "),sep="-")
+paste(strsplit(gms,split=" "))
+gms[[i]]
+i<-1
+gms[[i]]
+strsplit(gms[[i]],split=" ")
+strsplit(gms[[i]],split=" ")[[1]]
+paste(strsplit(gms[[i]],split=" ")[[1]],sep="-")
+gms[[i]]
+replace(gms[[i]]," ","-")
+?replace(gms[[i]]," ","-")
+strsplit(gms[[i]],split=" ")
+gm.split <- strsplit(gms[[i]],split=" ")
+gm.split[[1]]
+paste(gm.split[[1]])
+paste(gm.split)
+paste(gm.split[[1]])[1:2]
+paste(gm.split[[1]][1:2])
+unlist(strsplit(gms[[i]],split=" "))
+c(unlist(strsplit(gms[[i]],split=" ")))
+paste(gm.split[1:2])
+library(stringr)
+str_replace_all(gms)
+library(stringr)
+str_replace_all(gms,"-")
+str_replace_all(gms," ","-")
+st.gms <- str_replace_all(gms," ","-")
+paste(urlOdd,st.gmc,sep="/")
+paste(urlOdd,st.gms,sep="/")
+paste(urlOdd,"Odds",st.gms,sep="/")
+substr(urlOdd,1,(length(urlOdd)-5))
+substr(urlOdd,1,(nchar(urlOdd)-5))
+paste(substr(urlOdd,1,(nchar(urlOdd)-5)),"Odds",st.gms,"/",sep="/")
+paste(substr(urlOdd,1,(nchar(urlOdd)-5)),"Odds",st.gms,sep="/")
+paste(paste(substr(urlOdd,1,(nchar(urlOdd)-5)),"Odds",st.gms,sep="/"),"/"sep="")
+paste(paste(substr(urlOdd,1,(nchar(urlOdd)-5)),"Odds",st.gms,sep="/"),"/",sep="")
+gms.url <- paste(paste(substr(urlOdd,1,(nchar(urlOdd)-5)),"Odds",st.gms,sep="/"),"/",sep="")
+readHTMLTable(gms.url[1])
+gms.tables <- readHTMLTable(gms.url[1])
+gms.tables[[1]]
+gms.tables[[2]]
+gms.tables[[3]]
+dim(gms.tables[[3]])
+gms.tables <- gms.tables[-which(is.na(gms.tables[,5])),]
+gms.tables <- gms.tables[[3]]
+gms.tables <- gms.tables[-which(is.na(gms.tables[,5])),]
+gms.tables
+## Creation of Baseline Characteristics for ViP final analysis#
+##
+# Author - Richard Jackson#
+# packages	- manual functions for reading in Excel ("M:/Utils/utils.R")#
+#			- xlsx#
+#			- TeachingDemos (for log files)#
+# Description - Production of Table 4: Baseline Characteristics#
+##
+# Input - dbo_R_VIP_RegForm1#
+#		- dbo_R_VIP_RegForm2#
+#		- dbo_R_VIP_RegForm4#
+#		- dbo_R_VIP_RegForm5#
+#		- dbo_R_VIP_RegForm7#
+#		- VIP - Blinded Patient Report 29Oct14#
+#		- dbo_VALUEDATA#
+#		- dbo_DATAITEM#
+##
+# Deliverable - Baseline Characteristics Table (in Excel format)#
+##
+# Risk Level - Low#
+# Statistical Review - Manual Checking by Trial Statistician#
+##
+# Date - 16th March 2015#
+###
+## set logging directory#
+setwd("/Volumes/crc-lctu/Statistical Documents/Trials/VIP/Closed/02. Final Analyses/Data Lock - 2015.07.15/Code Log")#
+library(TeachingDemos)#
+## Setting log file#
+log.file<-file("TbJointMod.txt",open="w")#
+txtStart(log.file,commands=TRUE, results=TRUE, append=FALSE)#
+## loading functions/packages#
+source("/Volumes/crc-lctu/Statistical Documents/3. Stats Tools/clinfun.R")#
+library(xlsx)#
+library(joineR)#
+## setting working directory#
+setwd("/Volumes/crc-lctu/Statistical Documents/Trials/VIP/Closed/02. Final Analyses/Data Lock - 2015.07.15/Trial Data")
+eos <- readin("dbo_R_VIP_EOSForm1",1);eos[1:3,]
+txtStop()
+q()
+## Loading functions#
+source("/Users/RichJ23/Dropbox/Football/Version2/R files/Football.Function.R")#
+source("/Users/RichJ23/Dropbox/Football/Version3/R files/FootFunc.R")#
+load("/Users/RichJ23/Dropbox/Football/Version3/R files/TEAM.ID.R")#
+#
+library(parallel)#
+library(boot)#
+library(XML)#
+library(gdata)#
+###################
+###### DATA
+## Getting data#
+data.1314<-read.csv("http://football-data.co.uk/mmz4281/1314/E2.csv")#
+data.1415 <- read.csv("http://football-data.co.uk/mmz4281/1415/E2.csv")#
+#
+### Selecting Data#
+var<-c("Div","Date","HomeTeam","AwayTeam","FTHG","FTAG","FTR","HTHG","HTAG","HTR","HS","AS","HST","AST") #
+data.1314<-data.1314[,which(names(data.1314)%in%var)]#
+data.1415<-data.1415[,which(names(data.1415)%in%var)]#
+#
+old.dat <- rbind(data.1314, data.1415)#
+old.dat$Date <- as.Date(as.character(old.dat$Date),"%d/%m/%y")#
+Today <- as.Date(substr(Sys.time(),1,10))#
+old.dat <- old.dat[which(old.dat$Date<Today),]#
+old.dat <- TEAM.NUM(old.dat,TEAM.ID)
+url <-  "http://www.bbc.co.uk/sport/football/league-one/fixtures"
+gms <- getGamesBBC(url)
+gms
+### Adding Team info onto data#
+gms <- ADJ.TEAM(gms,TEAM.ID)#
+gms <- TEAM.NUM(gms,TEAM.ID)
+gms
+TEAM.ID
+which(gms$HomeTeam=="Fleetwood")
+gms
+gms$HomeTeam[which(gms$HomeTeam=="Fleetwood")] <- "Fleetwood Town"#
+gms$AwayTeam[which(gms$AwayTeam =="Fleetwood")] <- "Fleetwood Town"#
+#
+gms$HomeTeam[which(gms$HomeTeam=="Sheff Utd")] <- "Sheffield United"#
+gms$AwayTeam[which(gms$AwayTeam =="Sheff Utd")] <- "Sheffield United"#
+#
+gms$HomeTeam[which(gms$HomeTeam=="Peterborough")] <- "Peterboro"#
+gms$AwayTeam[which(gms$AwayTeam =="Peterborough")] <- "Peterboro"
+### Adding Team info onto data#
+gms <- ADJ.TEAM(gms,TEAM.ID)#
+gms <- TEAM.NUM(gms,TEAM.ID)
+gms
+### Running Model#
+#
+### setting up parameters matrix#
+n.team<-nrow(TEAM.ID)#
+parm<-as.data.frame(t(matrix(c(1.690144227, 0.897535364, -0.515633140, -0.749958972,  0.752312742, 0.383500052, 0.239465293, -0.632919268, 0.156876818, -0.013475336, -0.065477412, -0.020615962, -0.004266725, 0.351542968, 0.377991555),15,n.team)))#
+#
+names(parm)<-c("Att_S","Att_ST","Att","Def_S","Def_ST","Def","Home_S","Home_ST","Home","HS_ST","AS_ST","HST_G","AST_G","HS.tau","AS.tau")#
+#
+### Setting variance of target distributions#
+tau <- c(0.07427624, 0.18357262, 0.30287027, 0.05411578, 0.15798060, 0.22138211, 0.09093133, 0.20797624, 0.36494833, 0.13497808, 0.15763613,0.03,0.03,0.03,0.03)
+game.pred <- WeekOddsRun(old.dat,gms,TEAM.ID,tau,parm,200,base.tm=49)
+## Web results#
+web.res <- game.pred[,which(names(game.pred)%in%c("Date","HomeTeam","AwayTeam","PrHG","PrAG","PrH","PrD","PrA","PrBS"))]#
+web.res <- merge(game.pred,gms[,1:3],all.y=TRUE)
+web.res
+# Website#
+web.res$score <- paste(round(web.res$PrHG),round(web.res$PrAG),sep=" - ")#
+#
+web.res<-web.res[,which(names(web.res)%in%c("Date","HomeTeam","AwayTeam","score","PrH","PrD","PrA","PrBS"))]#
+web.res <- web.res[,c(1,2,3,8,4,5,6,7)]#
+#
+names(web.res) <- c("Date","Home","Away","Score","Prob. Home Win","Prob. Draw","Prob. Away Win","Prob. Both Score")#
+setwd("/Applications/MAMP/htdocs/IndieOdds/Predictions")#
+write.table(web.res,file="game.pred.leag1.txt",quote=FALSE,row.names=FALSE,sep="@")
+urlOdd <- "http://www.odds1x2.com/Football/English-League-One.aspx"
+getOdds1x2
+HomTm <- game.pred$HomeTeam
+AwaTm <- game.pred$AwayTeam
+### Getting tables#
+tables <- readHTMLTable(urlOdd)#
+tables <- tables[[3]]#
+tables <- tables[-which(is.na(tables[,6])),]#
+#
+gms <- tolower(tables[,2])#
+gms <- gsub(" for."," for_",gms)#
+st.gms <- str_replace_all(gms," ","-")
+st.gms
+gms
+str_replace_all
+??str_replace_all
+library(stringr)
+st.gms <- str_replace_all(gms," ","-")
+game.pred
+st.gms
+HomTm[which(HomTm=="Crewe")] <- "crewe-alex"#
+AwaTm[which(AwaTm=="Crewe")] <- "crewe-alex"#
+#
+HomTm[which(HomTm=="Sheffield United")] <- "sheffield-utd"#
+AwaTm[which(AwaTm=="Sheffield United")] <- "sheffield-utd"#
+#
+HomTm[which(HomTm=="Peterboro")] <- "peterbourough"#
+AwaTm[which(AwaTm=="Peterboro")] <- "peterbourough"#
+gp.tms <- paste(tolower(HomTm),"vs",tolower(AwaTm),sep="-")
+gp.tms
+### Getting tables#
+tables <- readHTMLTable(urlOdd)#
+tables <- tables[[3]]#
+tables <- tables[-which(is.na(tables[,6])),]#
+#
+gms <- tolower(tables[,2])#
+gms <- gsub(" for."," for_",gms)#
+st.gms <- str_replace_all(gms," ","-")#
+#
+gms.url <- paste(paste(substr(urlOdd,1,(nchar(urlOdd)-5)),"Odds",st.gms,sep="/"),"/",sep="")#
+#
+ind.game<-NULL#
+bet.game<-NULL#
+#
+for(g in 1:length(gms.url)){#
+#
+	gms.tables <- readHTMLTable(gms.url[g])#
+	gms.tables <- gms.tables[[3]]#
+	gms.tables <- gms.tables[-which(is.na(gms.tables[,5])),]#
+#
+	gp.id <- which(gp.tms==st.gms[g])#
+	if(length(gp.id)>0){#
+		gp <- game.pred[gp.id,]#
+		bet.odd <- gms.tables[c(2,5,8),2:4]#
+		bet.odd[,1] <- round(1/as.numeric(as.character(bet.odd[,1])),2)#
+		bet.odd[,2] <- round(1/as.numeric(as.character(bet.odd[,2])),2)#
+		bet.odd[,3] <- round(1/as.numeric(as.character(bet.odd[,3])),2)#
+#
+		r1 <- c(gp$HomeTeam,as.character(gms.tables[1,2]),"","V",gp$AwayTeam,as.character(gms.tables[1,4]),"","","Result","Model","BET365","William Hill","Ladbrokes")#
+#
+		r2 <- c("Sht","SoT","Goals","","Sht","SoT","Goals","", gp$HomeTeam)#
+		r3 <- c(gp$PrHS,gp$PrHST, gp$PrHG,"", gp$PrAS, gp$PrAST, gp$PrAG,"","Draw")#
+		r4 <- c("SugBet","","","","","","","", gp$AwayTeam)#
+#
+		res <- as.matrix(cbind(rbind(r2,r3,r4),t(gp[12:14]),t(bet.odd)))#
+		res <- rbind(r1,res,NA)#
+#
+		ind.game <- rbind(ind.game,res)#
+		bet.game <- rbind(bet.game,c(gp$HomeTeam,gp$AwayTeam,c(t(bet.odd))))#
+		}#
+	}
+bet.game
+ind.game
+gms
+st.gms
+gp.tms
+gms
+st.gms <- str_replace_all(gms," ","-")
+st.gms
+gp.tms
+AwaTm
+Odd.info <- getOdds1x2(urlOdd,game.pred)
+Odd.info

@@ -1,0 +1,35 @@
+Man United@1 - Manchester U.@@V@Tottenham@2 - Tottenham@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Man United@0.55@0.62@0.62@0.61
+14@5@2@@10@4@1@@Draw@0.2@0.26@0.27@0.25
+SugBet@@@@@@@@Tottenham@0.25@0.18@0.18@0.2
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Norwich@1 - Norwich@@V@Crystal Palace@2 - Crystal Pala.@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Norwich@0.2@0.43@0.41@0.42
+14@5@1@@11.5@4@2@@Draw@0.25@0.31@0.31@0.3
+SugBet@@@@@@@@Crystal Palace@0.55@0.32@0.34@0.36
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Leicester@1 - Leicester Ci.@@V@Sunderland@2 - Sunderland@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Leicester@0.64@0.49@0.49@0.5
+17.5@5@2@@10@3.5@1@@Draw@0.16@0.29@0.31@0.29
+SugBet@@@@@@@@Sunderland@0.2@0.29@0.26@0.26
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Chelsea@1 - Chelsea@@V@Swansea@2 - Swansea@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Chelsea@0.75@0.78@0.77@0.78
+19.5@7@2@@9@3@0.5@@Draw@0.14@0.18@0.2@0.18
+SugBet@@@@@@@@Swansea@0.11@0.1@0.1@0.09
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Newcastle@1 - Newcastle@@V@Southampton@2 - Southampton@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Newcastle@0.25@0.32@0.32@0.36
+10@3@1@@10@4@1@@Draw@0.3@0.31@0.3@0.31
+SugBet@@@@@@@@Southampton@0.45@0.43@0.43@0.4
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Arsenal@1 - Arsenal@@V@West Ham@2 - West Ham@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Arsenal@0.59@0.75@0.74@0.75
+19@7@1@@8@2@0@@Draw@0.27@0.2@0.21@0.2
+SugBet@@@@@@@@West Ham@0.14@0.11@0.11@0.11
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Stoke@1 - Stoke City@@V@Liverpool@2 - Liverpool@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Stoke@0.23@0.32@0.29@0.36
+13@3@1@@11.5@5@2@@Draw@0.18@0.31@0.3@0.31
+SugBet@@@@@@@@Liverpool@0.59@0.43@0.44@0.42
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA

@@ -1,0 +1,35 @@
+Nantes@1 - Nantes@@V@Guingamp@2 - Guingamp@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Nantes@0.59@0.44@0.43@0.48
+14@5@1@@8@2.5@0@@Draw@0.25@0.32@0.32@0.34
+SugBet@@@@@@@@Guingamp@0.16@0.29@0.3@0.28
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Montpellier@1 - Montpellier@@V@Angers@2 - Angers@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Montpellier@NA@0.58@0.57@0.59
+NA@NA@NA@@NA@NA@NA@@Draw@NA@0.29@0.3@0.31
+SugBet@@@@@@@@Angers@NA@0.2@0.18@0.2
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Nice@1 - Nice@@V@Monaco@2 - Monaco@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Nice@0.11@0.29@0.29@0.29
+10.5@3@1@@11@4@2@@Draw@0.23@0.31@0.32@0.34
+SugBet@@@@@@@@Monaco@0.66@0.48@0.45@0.47
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Marseille@1 - Marseille@@V@Caen@2 - Caen@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Marseille@0.59@0.65@0.62@0.65
+18@6@2@@9.5@3@1@@Draw@0.16@0.27@0.25@0.26
+SugBet@@@@@@@@Caen@0.25@0.14@0.18@0.17
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Bastia@1 - Bastia@@V@Rennes@2 - Rennes@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Bastia@0.39@0.42@0.42@0.43
+12@4.5@1@@9@3@1@@Draw@0.27@0.31@0.32@0.34
+SugBet@@@@@@@@Rennes@0.34@0.33@0.32@0.32
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Bordeaux@1 - Bordeaux@@V@Reims@2 - Reims@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Bordeaux@0.55@0.6@0.58@0.6
+16@5@2@@9@3@1@@Draw@0.32@0.28@0.28@0.29
+SugBet@@@@@@@@Reims@0.14@0.19@0.2@0.2
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Lyon@1 - Lyon@@V@Lorient@2 - Lorient@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Lyon@0.52@0.71@0.69@0.71
+14@6.5@2@@9.5@4@1@@Draw@0.3@0.22@0.23@0.25
+SugBet@@@@@@@@Lorient@0.18@0.13@0.13@0.14
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA

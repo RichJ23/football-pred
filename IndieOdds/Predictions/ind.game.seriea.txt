@@ -1,0 +1,45 @@
+Empoli@1 - Empoli@@V@Chievo@2 - Chievo@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Empoli@0.55@0.48@0.45@0.48
+15.5@4@1@@10.5@2.5@0@@Draw@0.25@0.31@0.32@0.31
+SugBet@@@@@@@@Chievo@0.2@0.28@0.27@0.29
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Frosinone@1 - Frosinone@@V@Torino@2 - Torino@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Frosinone@NA@0.38@0.36@0.36
+NA@NA@NA@@NA@NA@NA@@Draw@NA@0.31@0.33@0.31
+SugBet@@@@@@@@Torino@NA@0.37@0.36@0.38
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Verona@1 - Verona@@V@Roma@2 - Roma@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Verona@0.3@0.22@0.22@0.23
+10@3@1@@14@5@1@@Draw@0.27@0.29@0.29@0.28
+SugBet@@@@@@@@Roma@0.43@0.56@0.54@0.56
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Inter@1 - Inter@@V@Atalanta@2 - Atalanta@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Inter@0.61@0.69@0.69@0.7
+19@6@1@@8@3@1@@Draw@0.27@0.24@0.23@0.22
+SugBet@@@@@@@@Atalanta@0.11@0.13@0.12@0.14
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Juventus@1 - Juventus@@V@Udinese@2 - Udinese@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Juventus@0.93@0.77@0.8@0.79
+18.5@7@2@@8@2@0@@Draw@0.07@0.2@0.18@0.17
+SugBet@@@@@@@@Udinese@0@0.1@0.08@0.1
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Lazio@1 - Lazio@@V@Bologna@2 - Bologna@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Lazio@0.68@0.67@0.67@0.67
+15@5@2@@10@3@0@@Draw@0.3@0.25@0.24@0.24
+SugBet@@@@@@@@Bologna@0.02@0.14@0.14@0.15
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Sampdoria@1 - Sampdoria@@V@Carpi@2 - Carpi@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Sampdoria@NA@0.64@0.62@0.64
+NA@NA@NA@@NA@NA@NA@@Draw@NA@0.27@0.27@0.25
+SugBet@@@@@@@@Carpi@NA@0.17@0.16@0.17
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Palermo@1 - Palermo@@V@Genoa@2 - Genoa@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Palermo@0.5@0.42@0.41@0.42
+13.5@5@1@@9@3@1@@Draw@0.3@0.31@0.32@0.29
+SugBet@@@@@@@@Genoa@0.2@0.33@0.32@0.35
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Sassuolo@1 - Sassuolo@@V@Napoli@2 - Napoli@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Sassuolo@0.2@0.23@0.22@0.25
+11.5@4@1@@13.5@6@2@@Draw@0.25@0.29@0.29@0.28
+SugBet@@@@@@@@Napoli@0.55@0.54@0.54@0.53
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA

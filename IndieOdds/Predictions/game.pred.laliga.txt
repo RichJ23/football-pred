@@ -1,0 +1,10 @@
+Date@Home@Away@Score@Prob. Home Win@Prob. Draw@Prob. Away Win@Prob. Both Score
+2015-08-14@Bayern Munich@Hamburg@3 - 0@0.98@0@0.02@0.2
+2015-08-15@Augsburg@Hertha@1 - 1@0.43@0.32@0.25@0.55
+2015-08-15@Dortmund@M'gladbach@1 - 1@0.18@0.43@0.39@0.59
+2015-08-15@Leverkusen@Hoffenheim@2 - 1@0.7@0.11@0.18@0.5
+2015-08-15@Mainz@FC Ingolstadt 04@NA - NA@NA@NA@NA@NA
+2015-08-15@SV Darmstadt 98@Hannover@NA - NA@NA@NA@NA@NA
+2015-08-15@Werder Bremen@Schalke 04@1 - 1@0.34@0.3@0.36@0.41
+2015-08-16@Stuttgart@FC Koln@1 - 1@0.43@0.2@0.36@0.41
+2015-08-16@Wolfsburg@Ein Frankfurt@3 - 1@0.61@0.2@0.18@0.59

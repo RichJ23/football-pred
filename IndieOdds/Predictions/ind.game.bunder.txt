@@ -1,0 +1,45 @@
+Bayern Munich@1 - Bayern Munic.@@V@Hamburg@2 - Hamburg@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Bayern Munich@0.89@0.9@0.93@0.93
+21@8.5@3@@6@2.5@0@@Draw@0.05@0.12@0.1@0.11
+SugBet@@@@@@@@Hamburg@0.07@0.04@0.04@0.03
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Leverkusen@1 - Leverkusen@@V@Hoffenheim@2 - Hoffenheim@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Leverkusen@0.77@0.69@0.67@0.67
+16@7@3@@11@4@1@@Draw@0.14@0.23@0.23@0.23
+SugBet@@@@@@@@Hoffenheim@0.09@0.14@0.17@0.17
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Dortmund@1 - Dortmund@@V@M'gladbach@2 - B. M'gladbac.@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Dortmund@0.25@0.57@0.56@0.58
+21@7@1@@7@3@1@@Draw@0.32@0.27@0.27@0.27
+SugBet@@@@@@@@M'gladbach@0.43@0.23@0.24@0.22
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Augsburg@1 - Augsburg@@V@Hertha@2 - Hertha@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Augsburg@0.57@0.51@0.51@0.54
+14.5@5.5@2@@11.5@3.5@1@@Draw@0.23@0.29@0.31@0.29
+SugBet@@@@@@@@Hertha@0.2@0.27@0.24@0.24
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Mainz@1 - Mainz@@V@FC Ingolstadt 04@2 - Ingolstadt@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Mainz@NA@0.55@0.55@0.56
+NA@NA@NA@@NA@NA@NA@@Draw@NA@0.29@0.28@0.28
+SugBet@@@@@@@@FC Ingolstadt 04@NA@0.23@0.24@0.23
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+SV Darmstadt 98@1 - Darmstadt@@V@Hannover@2 - Hannover@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@SV Darmstadt 98@NA@0.36@0.34@0.36
+NA@NA@NA@@NA@NA@NA@@Draw@NA@0.3@0.31@0.29
+SugBet@@@@@@@@Hannover@NA@0.41@0.41@0.42
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Stuttgart@1 - Stuttgart@@V@FC Koln@2 - FC Köln@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Stuttgart@0.34@0.51@0.49@0.5
+11@3@1@@10@3@1@@Draw@0.16@0.29@0.29@0.29
+SugBet@@@@@@@@FC Koln@0.5@0.27@0.28@0.27
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Wolfsburg@1 - Wolfsburg@@V@Ein Frankfurt@2 - Eint. Frankf.@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Wolfsburg@0.61@0.69@0.65@0.69
+16.5@7@2@@10@3.5@1@@Draw@0.23@0.22@0.22@0.22
+SugBet@@@@@@@@Ein Frankfurt@0.16@0.15@0.18@0.15
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA
+Werder Bremen@1 - Werder Breme.@@V@Schalke 04@2 - Schalke@@@Result@Model@BET365@William Hill@Ladbrokes
+Sht@SoT@Goals@@Sht@SoT@Goals@@Werder Bremen@0.11@0.32@0.32@0.36
+13@3@0@@13@5.5@2@@Draw@0.14@0.29@0.29@0.29
+SugBet@@@@@@@@Schalke 04@0.75@0.44@0.45@0.42
+NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA@NA

@@ -1,0 +1,13 @@
+Date@Home@Away@Score@Prob. Home Win@Prob. Draw@Prob. Away Win@Prob. Both Score
+2015-08-08@Burton@Scunthorpe@NA - NA@NA@NA@NA@NA
+2015-08-08@Chesterfield@Barnsley@1 - 0@0.64@0.2@0.16@0.32
+2015-08-08@Colchester@Blackpool@NA - NA@NA@NA@NA@NA
+2015-08-08@Coventry@Wigan@NA - NA@NA@NA@NA@NA
+2015-08-08@Crewe@Port Vale@1 - 1@0.36@0.2@0.43@0.52
+2015-08-08@Doncaster@Bury@NA - NA@NA@NA@NA@NA
+2015-08-08@Fleetwood Town@Southend@NA - NA@NA@NA@NA@NA
+2015-08-08@Gillingham@Sheffield United@1 - 1@0.27@0.25@0.48@0.57
+2015-08-08@Rochdale@Peterboro@1 - 1@0.45@0.23@0.32@0.52
+2015-08-08@Shrewsbury@Millwall@NA - NA@NA@NA@NA@NA
+2015-08-08@Swindon@Bradford@1 - 1@0.48@0.27@0.25@0.52
+2015-08-08@Walsall@Oldham@1 - 1@0.52@0.23@0.25@0.32

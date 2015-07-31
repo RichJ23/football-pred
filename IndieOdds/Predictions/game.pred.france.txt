@@ -1,0 +1,11 @@
+Date@Home@Away@Score@Pr(Home)@Pr(Draw)@Pr(Away)@Pr(Both Score)
+2015-08-07@Lille@Paris SG@1 - 2@0.16@0.36@0.48@0.5
+2015-08-08@Bastia@Rennes@1 - 1@0.39@0.27@0.34@0.59
+2015-08-08@Marseille@Caen@2 - 1@0.59@0.16@0.25@0.64
+2015-08-08@Montpellier@Angers@NA - NA@NA@NA@NA@NA
+2015-08-08@Nantes@Guingamp@1 - 0@0.59@0.25@0.16@0.36
+2015-08-08@Nice@Monaco@1 - 2@0.11@0.23@0.66@0.5
+2015-08-08@Troyes@GFC Ajaccio@NA - NA@NA@NA@NA@NA
+2015-08-09@Bordeaux@Reims@2 - 1@0.55@0.32@0.14@0.57
+2015-08-09@Lyon@Lorient@2 - 1@0.52@0.3@0.18@0.7
+2015-08-09@Toulouse@St Etienne@1 - 1@0.3@0.25@0.45@0.45
